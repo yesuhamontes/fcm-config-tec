@@ -1,58 +1,27 @@
 {
   "project_info": {
-    "project_number": "6052289227",
-    "firebase_url": "https://clientside-1f1e2.firebaseio.com",
-    "project_id": "clientside-1f1e2",
-    "storage_bucket": "clientside-1f1e2.appspot.com"
+    "project_number": "407273314132",
+    "firebase_url": "https://tec-telnor.firebaseio.com",
+    "project_id": "tec-telnor",
+    "storage_bucket": "tec-telnor.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:6052289227:android:cd6691438687b72e",
-        "android_client_info": {
-          "package_name": "com.telnor.apptelnor"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "6052289227-ck6mecf6tq9dfktol4n3udtlr9ahcgbr.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyApmXI7RYIcdTbweihHPiuR-nruLW8SkOI"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:6052289227:android:67b6a52545a409f2",
+        "mobilesdk_app_id": "1:407273314132:android:67b6a52545a409f2",
         "android_client_info": {
           "package_name": "com.telnor.telnortecapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "6052289227-ck6mecf6tq9dfktol4n3udtlr9ahcgbr.apps.googleusercontent.com",
+          "client_id": "407273314132-6cobsvhpvl765nuior4nc24ai073lulk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyApmXI7RYIcdTbweihHPiuR-nruLW8SkOI"
+          "current_key": ""
         }
       ],
       "services": {
